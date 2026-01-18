@@ -1,0 +1,22 @@
+# config/config.yaml
+app:
+  host: localhost
+  port: 8080
+
+db:
+  host: localhost
+  port: 5432
+  name: orders_db
+  user: my_user
+  password: my_password
+
+kafka:
+  brokers:
+    - localhost:9092
+  topic: orders
+  dlq_topic: orders.dlq
+
+cache:
+  type: "inmemory"
+  capacity: 1000
+  ttl: "1h"
