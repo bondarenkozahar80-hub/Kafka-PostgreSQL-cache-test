@@ -9,10 +9,10 @@ import (
 
 	"github.com/IBM/sarama"
 
-	"Kafka-PostgreSQL-cache-test/config"
-	"Kafka-PostgreSQL-cache-test/internal/models"
-	"Kafka-PostgreSQL-cache-test/internal/repository"
-	"Kafka-PostgreSQL-cache-test/internal/service"
+	"github.com/bondarenkozahar80-hub/Kafka-PostgreSQL-cache-test/config"
+	"github.com/bondarenkozahar80-hub/Kafka-PostgreSQL-cache-test/internal/models"
+	"github.com/bondarenkozahar80-hub/Kafka-PostgreSQL-cache-test/internal/repository"
+	"github.com/bondarenkozahar80-hub/Kafka-PostgreSQL-cache-test/internal/service"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
 )
