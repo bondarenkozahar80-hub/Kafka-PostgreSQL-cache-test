@@ -9,15 +9,15 @@ import (
 	"strconv"
 	"time"
 
-	"Kafka-PostgreSQL-cache-test/cmd/ui/menu"
-	"Kafka-PostgreSQL-cache-test/internal/service"
+	"github.com/bondarenkozahar80-hub/Kafka-PostgreSQL-cache-test/cmd/ui/menu"
+	"github.com/bondarenkozahar80-hub/Kafka-PostgreSQL-cache-test/internal/service"
 
 	"github.com/IBM/sarama"
 
-	"Kafka-PostgreSQL-cache-test/config"
-	"Kafka-PostgreSQL-cache-test/internal/datagenerators"
-	"Kafka-PostgreSQL-cache-test/internal/models"
-	"Kafka-PostgreSQL-cache-test/internal/repository"
+	"github.com/bondarenkozahar80-hub/Kafka-PostgreSQL-cache-test/config"
+	"github.com/bondarenkozahar80-hub/Kafka-PostgreSQL-cache-test/internal/datagenerators"
+	"github.com/bondarenkozahar80-hub/Kafka-PostgreSQL-cache-test/internal/models"
+	"github.com/bondarenkozahar80-hub/Kafka-PostgreSQL-cache-test/internal/repository"
 )
 
 var (
