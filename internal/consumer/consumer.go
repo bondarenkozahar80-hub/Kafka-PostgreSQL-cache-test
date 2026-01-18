@@ -6,10 +6,10 @@ import (
 	"fmt"
 	"time"
 
-	"Kafka-PostgreSQL-cache-test/internal/cache"
-	"Kafka-PostgreSQL-cache-test/internal/models"
-	"Kafka-PostgreSQL-cache-test/internal/repository"
-	"Kafka-PostgreSQL-cache-test/internal/service"
+	"github.com/bondarenkozahar80-hub/Kafka-PostgreSQL-cache-test/internal/cache"
+	"github.com/bondarenkozahar80-hub/Kafka-PostgreSQL-cache-test/internal/models"
+	"github.com/bondarenkozahar80-hub/Kafka-PostgreSQL-cache-test/internal/repository"
+	"github.com/bondarenkozahar80-hub/Kafka-PostgreSQL-cache-test/internal/service"
 	"github.com/IBM/sarama"
 	"go.uber.org/zap"
 )
