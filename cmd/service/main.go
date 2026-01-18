@@ -7,12 +7,12 @@ import (
 	"os/signal"
 	"syscall"
 
-	"Kafka-PostgreSQL-cache-test/config"
-	"Kafka-PostgreSQL-cache-test/internal/cache"
-	"Kafka-PostgreSQL-cache-test/internal/consumer"
-	"Kafka-PostgreSQL-cache-test/internal/repository"
-	"Kafka-PostgreSQL-cache-test/internal/server"
-	"Kafka-PostgreSQL-cache-test/migrations"
+	"github.com/bondarenkozahar80-hub/Kafka-PostgreSQL-cache-test/config"
+	"github.com/bondarenkozahar80-hub/Kafka-PostgreSQL-cache-test/internal/cache"
+	"github.com/bondarenkozahar80-hub/Kafka-PostgreSQL-cache-test/internal/consumer"
+	"github.com/bondarenkozahar80-hub/Kafka-PostgreSQL-cache-test/internal/repository"
+	"github.com/bondarenkozahar80-hub/Kafka-PostgreSQL-cache-test/internal/server"
+	"github.com/bondarenkozahar80-hub/Kafka-PostgreSQL-cache-test/migrations"
 	"go.uber.org/zap"
 )
 
