@@ -5,7 +5,7 @@ import (
 	"errors"
 	"fmt"
 
-	"Kafka-PostgreSQL-cache-test/internal/models"
+	"github.com/bondarenkozahar80-hub/Kafka-PostgreSQL-cache-test/internal/models"
 )
 
 const (
