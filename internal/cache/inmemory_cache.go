@@ -4,7 +4,7 @@ import (
 	"sync"
 	"time"
 
-	"Kafka-PostgreSQL-cache-test/internal/models"
+	"github.com/bondarenkozahar80-hub/Kafka-PostgreSQL-cache-test/internal/models"
 )
 
 // entry — элемент кэша, хранящий заказ, его ключ и время истечения срока жизни.
