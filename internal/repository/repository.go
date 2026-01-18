@@ -1,6 +1,6 @@
 package repository
 
-import "Kafka-PostgreSQL-cache-test/internal/models"
+import "github.com/bondarenkozahar80-hub/Kafka-PostgreSQL-cache-test/internal/models"
 
 type Orders interface {
 	AddOrder(order models.Order) error
