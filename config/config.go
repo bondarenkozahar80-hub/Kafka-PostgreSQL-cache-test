@@ -5,7 +5,7 @@ import (
 	"os"
 	"time"
 
-	"Kafka-PostgreSQL-cache-test/internal/cache"
+	"github.com/bondarenkozahar80-hub/Kafka-PostgreSQL-cache-test/internal/cache"
 	"github.com/ilyakaznacheev/cleanenv"
 )
 
