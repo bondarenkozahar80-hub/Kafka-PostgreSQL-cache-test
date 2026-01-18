@@ -5,9 +5,9 @@ import (
 	"errors"
 	"fmt"
 
-	"Kafka-PostgreSQL-cache-test/config"
-	"Kafka-PostgreSQL-cache-test/internal/models"
-	"Kafka-PostgreSQL-cache-test/internal/repository/database"
+	"github.com/bondarenkozahar80-hub/Kafka-PostgreSQL-cache-test/config"
+	"github.com/bondarenkozahar80-hub/Kafka-PostgreSQL-cache-test/internal/models"
+	"github.com/bondarenkozahar80-hub/Kafka-PostgreSQL-cache-test/internal/repository/database"
 	_ "github.com/lib/pq"
 )
 
