@@ -7,7 +7,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"Kafka-PostgreSQL-cache-test/internal/datagenerators"
+	"github.com/bondarenkozahar80-hub/Kafka-PostgreSQL-cache-test/internal/datagenerators"
 )
 
 // setupTestInMemoryCache создаёт тестовый кэш с заданной ёмкостью и TTL = 1 секунда
