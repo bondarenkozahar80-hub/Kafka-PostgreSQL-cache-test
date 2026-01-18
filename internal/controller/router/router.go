@@ -8,8 +8,8 @@ import (
 	"github.com/gorilla/handlers"
 	"go.uber.org/zap"
 
-	"Kafka-PostgreSQL-cache-test/internal/cache"
-	"Kafka-PostgreSQL-cache-test/internal/models"
+	"github.com/bondarenkozahar80-hub/Kafka-PostgreSQL-cache-test/internal/cache"
+	"github.com/bondarenkozahar80-hub/Kafka-PostgreSQL-cache-test/internal/models"
 	"github.com/gorilla/mux"
 )
 
