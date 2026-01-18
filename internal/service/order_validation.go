@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	"Kafka-PostgreSQL-cache-test/internal/models"
+	"github.com/bondarenkozahar80-hub/Kafka-PostgreSQL-cache-test/internal/models"
 )
 
 // emailRegex — строгая проверка email (без поддержки unicode)
