@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
-	"Kafka-PostgreSQL-cache-test/internal/datagenerators"
-	"Kafka-PostgreSQL-cache-test/internal/models"
+	"github.com/bondarenkozahar80-hub/Kafka-PostgreSQL-cache-test/internal/datagenerators"
+	"github.com/bondarenkozahar80-hub/Kafka-PostgreSQL-cache-test/internal/models"
 	"github.com/go-redis/redis/v8"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
