@@ -8,10 +8,10 @@ import (
 	"strconv"
 	"strings"
 
-	"Kafka-PostgreSQL-cache-test/internal/service"
+	"github.com/bondarenkozahar80-hub/Kafka-PostgreSQL-cache-test/internal/service"
 
-	"Kafka-PostgreSQL-cache-test/internal/datagenerators"
-	"Kafka-PostgreSQL-cache-test/internal/models"
+	"github.com/bondarenkozahar80-hub/Kafka-PostgreSQL-cache-test/internal/datagenerators"
+	"github.com/bondarenkozahar80-hub/Kafka-PostgreSQL-cache-test/internal/models"
 )
 
 // Option представляет пункт меню
