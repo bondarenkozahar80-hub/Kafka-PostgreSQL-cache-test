@@ -8,9 +8,9 @@ import (
 
 	"go.uber.org/zap"
 
-	"Kafka-PostgreSQL-cache-test/config"
-	"Kafka-PostgreSQL-cache-test/internal/cache"
-	"Kafka-PostgreSQL-cache-test/internal/controller/router"
+	"github.com/bondarenkozahar80-hub/Kafka-PostgreSQL-cache-test/config"
+	"github.com/bondarenkozahar80-hub/Kafka-PostgreSQL-cache-test/internal/cache"
+	"github.com/bondarenkozahar80-hub/Kafka-PostgreSQL-cache-test/internal/controller/router"
 )
 
 type Server struct {
