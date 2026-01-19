@@ -19,4 +19,5 @@ kafka:
 cache:
   type: "inmemory"
   capacity: 1000
+
   ttl: "1h"
